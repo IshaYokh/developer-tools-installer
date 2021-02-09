@@ -2,15 +2,15 @@
 
 ## Table of contents:
 - [Description](#Description)
-- [The list of tools the script install](#The-list-of-tools-the-script-install)
-- [The list of tools that I need which the script doesn't install due to different versions and sources which results for a need for manual installations](#The-list-of-tools-that-I-need-which-the-script-doesn't-install-due-to-different-versions-and-sources-which-results-for-a-need-for-manual-installations)
+- [The list of tools the script installs](#The-list-of-tools-the-script-install)
+- [The list of tools that I need which the script doesn't install due to different versions and sources, which results for a need for manual installations](#The-list-of-tools-that-I-need-which-the-script-doesn't-install-due-to-different-versions-and-sources,-which-results-for-a-need-for-manual-installations)
 - [Usage guide](#Usage-guide)
 - [Author](#Author)
 
 ## Description:
 A bash script that installs most of the programs, tools and services that I would personally need as a programmer in a Debian based distro
 
-## The list of tools the script install:
+## The list of tools the script installs:
 - vim 
 - net-tools 
 - curl 
@@ -49,7 +49,7 @@ A bash script that installs most of the programs, tools and services that I woul
 - wireshark
 - sqlitebrowser
 
-## The list of tools that I need which the script doesn't install due to different versions and sources which results for a need for manual installations:
+## The list of tools that I need which the script doesn't install due to different versions and sources, which results for a need for manual installations:
 - Visual studio code
 - Brackets
 - Eclipse
