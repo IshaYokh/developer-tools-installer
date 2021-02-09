@@ -48,12 +48,12 @@ main
 # List of needed other tools that would need more of manual installation due to different versions and sources:
     # Visual studio code
     # Brackets
-    # eclipse
+    # Eclipse
     # IntelliJ IDEA
     # Sublime text
-    # virtualbox
-    # sticky notes from snap store
-    # flameshot from snap store
+    # Virtualbox
+    # Sticky notes from snap store
+    # Flameshot from snap store
     # Tweak tool for whatever desktop enviroment is being used (usually gnome)
     # Chrome
     # NodeJS/ReactJS
