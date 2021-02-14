@@ -56,6 +56,7 @@ main
     # Flameshot from snap store
     # Tweak tool for whatever desktop enviroment is being used (usually gnome)
     # Chrome
+    # Docker
     # NodeJS/ReactJS
     # PHP 7
     # MySQL

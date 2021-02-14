@@ -60,6 +60,7 @@ A bash script that installs most of the programs, tools and services that I woul
 - Flameshot from snap store
 - Tweak tool for whatever desktop enviroment is being used (usually gnome)
 - Chrome
+- Docker
 - NodeJS/ReactJS
 - PHP 7
 - MySQL
