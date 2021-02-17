@@ -5,7 +5,7 @@
 
 main(){
     # Array of programs to be installed
-    tools=("vim" "net-tools" "curl" "ufw" "tmux" "neofetch" "htop" "python3" "python3-pip" "javascript-common" "npm" 
+    tools=("vim" "net-tools" "curl" "ufw" "tmux" "terminator" "neofetch" "htop" "python3" "python3-pip" "javascript-common" "npm" 
             "gcc" "g++" "make" "openjdk-8-jdk" "openjdk-8-dbg" "openjdk-8-jre" "git" "vsftpd" "apache2" "nordvpn"
             "xrdp" "nmap" "snap" "unrar" "dmg2img" "smbclient" "at" "cifs-utils" "samba" "wine" "wine32"
             "vlc" "qbittorrent" "remmina" "wireshark" "sqlitebrowser")
